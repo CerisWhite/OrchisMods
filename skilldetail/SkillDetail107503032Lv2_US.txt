@@ -1,0 +1,3 @@
+﻿0 TextAsset Base
+ 1 string m_Name = "SkillDetail107503032Lv2"
+ 1 string m_Script = "<size=0>[107503032]Blast of Emotion // Dmg:3795 Hit:11 Rec:0</size>\n<size=0>[107503032][Lv.2]スキル2(S2)</size>\nDamage: 285 × 11 hits\nSkill Energy Required: 9,000\nSkill Energy Required (Shared Skill): 22,000\n\n<size=0>[107503032]Blast of Emotion // Dmg:3135 Hit:11 Rec:0</size>\n<size=0>[107503033][Lv.2]アビ1 スキル2(S2)</size>\n<color=#00008B>After Skill Change:</color>\nDamage: 285 × 11 hits\nTeam Defense Amp (Team Amp MAX Lv. = 3)\nSkill Energy Required: 9,000\nSkill Energy Required (Shared Skill): 22,000\n"

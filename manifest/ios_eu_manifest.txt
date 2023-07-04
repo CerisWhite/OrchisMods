@@ -1,0 +1,1243 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3126599977334250442
+ 1 string m_Name = "manifest"
+ 0 Category categories
+  0 Array Array (2 items)
+   0 int size = 2
+   [0]
+    0 Category data
+     1 string name = "Master"
+     0 Asset assets
+      0 Array Array (1 items)
+       0 int size = 1
+       [0]
+        0 Asset data
+         1 string name = "master"
+         1 string hash = "YIRVCICHIEJ4WGU6SX63YVI34ZMJBKIAEL3YBAEU4UBBUOA6JMYQ"
+         0 vector dependencies
+          1 Array Array (0 items)
+           0 int size = 0
+         0 int size = 6730771
+         0 int group = 1
+         0 vector assets
+          1 Array Array (329 items)
+           0 int size = 329
+           [0]
+            1 string data = "Master/ManaPieceElement.asset"
+           [1]
+            1 string data = "Master/BattleRoyalUnit.asset"
+           [2]
+            1 string data = "Master/ShopBanner.asset"
+           [3]
+            1 string data = "Master/GimmickTrapField.asset"
+           [4]
+            1 string data = "Master/BuffCountData.asset"
+           [5]
+            1 string data = "Master/WeaponCraftWeaponSet.asset"
+           [6]
+            1 string data = "Master/FortArea.asset"
+           [7]
+            1 string data = "Master/MissionPeriodData.asset"
+           [8]
+            1 string data = "Master/CuttCharaMouth.asset"
+           [9]
+            1 string data = "Master/CharaAIOperation.asset"
+           [10]
+            1 string data = "Master/MC.asset"
+           [11]
+            1 string data = "Master/ElementalType.asset"
+           [12]
+            1 string data = "Master/EventTradeGroup.asset"
+           [13]
+            1 string data = "Master/UnitStoryGroup.asset"
+           [14]
+            1 string data = "Master/WeaponCraftGroup.asset"
+           [15]
+            1 string data = "Master/BoxTwoStepData.asset"
+           [16]
+            1 string data = "Master/RankingData.asset"
+           [17]
+            1 string data = "Master/FortPlantData.asset"
+           [18]
+            1 string data = "Master/DrillTalk.asset"
+           [19]
+            1 string data = "Master/MissionAlbumData.asset"
+           [20]
+            1 string data = "Master/DmodeTalk.asset"
+           [21]
+            1 string data = "Master/TalismanData.asset"
+           [22]
+            1 string data = "Master/AstralItem.asset"
+           [23]
+            1 string data = "Master/BattleRoyalEnemy.asset"
+           [24]
+            1 string data = "Master/DmodeWeapon.asset"
+           [25]
+            1 string data = "Master/EnemyBoundaryAction.asset"
+           [26]
+            1 string data = "Master/RaidEventItem.asset"
+           [27]
+            1 string data = "Master/Clb01EventItem.asset"
+           [28]
+            1 string data = "Master/QuestStory.asset"
+           [29]
+            1 string data = "Master/SeasonVoice.asset"
+           [30]
+            1 string data = "Master/ManaPieceType.asset"
+           [31]
+            1 string data = "Master/WeaponBodyBuildupGroup.asset"
+           [32]
+            1 string data = "Master/CharaTalk.asset"
+           [33]
+            1 string data = "Master/GimmickTimedSwitch.asset"
+           [34]
+            1 string data = "Master/FortPlantDetail.asset"
+           [35]
+            1 string data = "Master/QuestEventMenu.asset"
+           [36]
+            1 string data = "Master/CharaLevel.asset"
+           [37]
+            1 string data = "Master/ActionMarker.asset"
+           [38]
+            1 string data = "Master/DmodeDungeonItemData.asset"
+           [39]
+            1 string data = "Master/LoadingTips.asset"
+           [40]
+            1 string data = "Master/GimmickMovePanelObj.asset"
+           [41]
+            1 string data = "Master/DefenseEventTalk.asset"
+           [42]
+            1 string data = "Master/Clb01EventTalk.asset"
+           [43]
+            1 string data = "Master/DmodeAbilityCrest.asset"
+           [44]
+            1 string data = "Master/EnemyActionSet.asset"
+           [45]
+            1 string data = "Master/UseItem.asset"
+           [46]
+            1 string data = "Master/CollectEventItem.asset"
+           [47]
+            1 string data = "Master/QuestWeaponTypePattern.asset"
+           [48]
+            1 string data = "Master/RandomFloorData.asset"
+           [49]
+            1 string data = "Master/ExRushEventTalk.asset"
+           [50]
+            1 string data = "Master/MissionSpecialData.asset"
+           [51]
+            1 string data = "Master/DragonRarity.asset"
+           [52]
+            1 string data = "Master/ExRushEventItem.asset"
+           [53]
+            1 string data = "Master/RaidEventReward.asset"
+           [54]
+            1 string data = "Master/AbilityCrestTrade.asset"
+           [55]
+            1 string data = "Master/CollectEventTalk.asset"
+           [56]
+            1 string data = "Master/BattleRoyalCharaSkin.asset"
+           [57]
+            1 string data = "Master/EditSkillCharaOffset.asset"
+           [58]
+            1 string data = "Master/AlbumPassiveData.asset"
+           [59]
+            1 string data = "Master/AreaGimmickData.asset"
+           [60]
+            1 string data = "Master/QuestWallMonthlyReward.asset"
+           [61]
+            1 string data = "Master/StatusPlusData.asset"
+           [62]
+            1 string data = "Master/MissionNormalData.asset"
+           [63]
+            1 string data = "Master/AmuletRarity.asset"
+           [64]
+            1 string data = "Master/LoginBonusData.asset"
+           [65]
+            1 string data = "Master/AbilityCrestRarity.asset"
+           [66]
+            1 string data = "Master/AbilityShiftGroup.asset"
+           [67]
+            1 string data = "Master/QuestStoryGroup.asset"
+           [68]
+            1 string data = "Master/QuestScoreMissionData.asset"
+           [69]
+            1 string data = "Master/BossCameraPos.asset"
+           [70]
+            1 string data = "Master/Clb01EventLocation.asset"
+           [71]
+            1 string data = "Master/DmodeServitor.asset"
+           [72]
+            1 string data = "Master/CastleStory.asset"
+           [73]
+            1 string data = "Master/EnemyData.asset"
+           [74]
+            1 string data = "Master/DragonLimitBreak.asset"
+           [75]
+            1 string data = "Master/PlayerBulletData.asset"
+           [76]
+            1 string data = "Master/GimmickBarrelBomb.asset"
+           [77]
+            1 string data = "Master/TutorialUnitSelect.asset"
+           [78]
+            1 string data = "Master/FortAreaMapSettings.asset"
+           [79]
+            1 string data = "Master/SkillData.asset"
+           [80]
+            1 string data = "Master/CharaFaceMouthMotion.asset"
+           [81]
+            1 string data = "Master/MazeEventItem.asset"
+           [82]
+            1 string data = "Master/DmodeStrengthSkill.asset"
+           [83]
+            1 string data = "Master/WeaponPassiveAbility.asset"
+           [84]
+            1 string data = "Master/PlayerActionHitAttribute.asset"
+           [85]
+            1 string data = "Master/EventPassive.asset"
+           [86]
+            1 string data = "Master/GimmickThunderbolt.asset"
+           [87]
+            1 string data = "Master/GimmickAreaTrap.asset"
+           [88]
+            1 string data = "Master/ExHunterEventItem.asset"
+           [89]
+            1 string data = "Master/AmuletData.asset"
+           [90]
+            1 string data = "Master/MazeEventTalk.asset"
+           [91]
+            1 string data = "Master/AbilityCrestBuildupLevel.asset"
+           [92]
+            1 string data = "Master/TrackRecordData.asset"
+           [93]
+            1 string data = "Master/DmodeDungeonThemeBgm.asset"
+           [94]
+            1 string data = "Master/AbilityCrestBuildupGroup.asset"
+           [95]
+            1 string data = "Master/MaterialShopMonthly.asset"
+           [96]
+            1 string data = "Master/EnemyList.asset"
+           [97]
+            1 string data = "Master/SummonGroup.asset"
+           [98]
+            1 string data = "Master/MyPageBanner.asset"
+           [99]
+            1 string data = "Master/GimmickNeedleFloor.asset"
+           [100]
+            1 string data = "Master/EnemyRouteMode.asset"
+           [101]
+            1 string data = "Master/EnemyParam.asset"
+           [102]
+            1 string data = "Master/EnemyHitDifficulty.asset"
+           [103]
+            1 string data = "Master/AuraEffectGroup.asset"
+           [104]
+            1 string data = "Master/BattleRoyalDungeonItemSet.asset"
+           [105]
+            1 string data = "Master/RemoveBuffAction.asset"
+           [106]
+            1 string data = "Master/QuestSummary.asset"
+           [107]
+            1 string data = "Master/HonorData.asset"
+           [108]
+            1 string data = "Master/EarnEventItem.asset"
+           [109]
+            1 string data = "Master/AbilityGroup.asset"
+           [110]
+            1 string data = "Master/FortField.asset"
+           [111]
+            1 string data = "Master/UserLevel.asset"
+           [112]
+            1 string data = "Master/LotteryTicket.asset"
+           [113]
+            1 string data = "Master/GuideWindow.asset"
+           [114]
+            1 string data = "Master/StackBuffData.asset"
+           [115]
+            1 string data = "Master/EarnEventTalk.asset"
+           [116]
+            1 string data = "Master/BuildEventTalk.asset"
+           [117]
+            1 string data = "Master/GuildEmblem.asset"
+           [118]
+            1 string data = "Master/DefenseEventSystemInfo.asset"
+           [119]
+            1 string data = "Master/BattleRoyalDungeonItemGroup.asset"
+           [120]
+            1 string data = "Master/AbnormalStatusType.asset"
+           [121]
+            1 string data = "Master/SummonTicket.asset"
+           [122]
+            1 string data = "Master/MazeEventSchedule.asset"
+           [123]
+            1 string data = "Master/CharaFaceEye.asset"
+           [124]
+            1 string data = "Master/WeaponBodyBuildupLevel.asset"
+           [125]
+            1 string data = "Master/BattleRoyalEventCycle.asset"
+           [126]
+            1 string data = "Master/QuestFailedType.asset"
+           [127]
+            1 string data = "Master/ShopCenterBanner.asset"
+           [128]
+            1 string data = "Master/TrackRecordType.asset"
+           [129]
+            1 string data = "Master/RareEnemyGroup.asset"
+           [130]
+            1 string data = "Master/GimmickRollingStone.asset"
+           [131]
+            1 string data = "Master/QuestGuestData.asset"
+           [132]
+            1 string data = "Master/AmuletTrade.asset"
+           [133]
+            1 string data = "Master/EventCyclePointReward.asset"
+           [134]
+            1 string data = "Master/WeaponBody.asset"
+           [135]
+            1 string data = "Master/QuestMainGroup.asset"
+           [136]
+            1 string data = "Master/QuestEffectiveAbility.asset"
+           [137]
+            1 string data = "Master/QuestTreasureData.asset"
+           [138]
+            1 string data = "Master/MenuTalkGroup.asset"
+           [139]
+            1 string data = "Master/QuestMissionCompleteType.asset"
+           [140]
+            1 string data = "Master/QuestMainLocation.asset"
+           [141]
+            1 string data = "Master/MissionSpecialGroup.asset"
+           [142]
+            1 string data = "Master/QuestRewardData.asset"
+           [143]
+            1 string data = "Master/CampaignData.asset"
+           [144]
+            1 string data = "Master/CombatEventLocation.asset"
+           [145]
+            1 string data = "Master/MainStoryGuide.asset"
+           [146]
+            1 string data = "Master/MenuTalk.asset"
+           [147]
+            1 string data = "Master/GameFlowSwitching.asset"
+           [148]
+            1 string data = "Master/DmodeDungeonArea.asset"
+           [149]
+            1 string data = "Master/DragonGiftData.asset"
+           [150]
+            1 string data = "Master/WeaponCraftTree.asset"
+           [151]
+            1 string data = "Master/WeaponRarity.asset"
+           [152]
+            1 string data = "Master/CrossFadeBGM.asset"
+           [153]
+            1 string data = "Master/DmodeServitorPassive.asset"
+           [154]
+            1 string data = "Master/MissionDrillGroup.asset"
+           [155]
+            1 string data = "Master/QuestData.asset"
+           [156]
+            1 string data = "Master/DmodeStrengthAbility.asset"
+           [157]
+            1 string data = "Master/DragonData.asset"
+           [158]
+            1 string data = "Master/BattleRoyalDragonSchedule.asset"
+           [159]
+            1 string data = "Master/BossCamera.asset"
+           [160]
+            1 string data = "Master/BuildEventItem.asset"
+           [161]
+            1 string data = "Master/MypageLimitedAreaNPC.asset"
+           [162]
+            1 string data = "Master/SimpleEventItem.asset"
+           [163]
+            1 string data = "Master/MaterialData.asset"
+           [164]
+            1 string data = "Master/AbilityData.asset"
+           [165]
+            1 string data = "Master/WeaponBodyGroupSeries.asset"
+           [166]
+            1 string data = "Master/QuestOverrideView.asset"
+           [167]
+            1 string data = "Master/DmodeSetting.asset"
+           [168]
+            1 string data = "Master/MissionMainStoryData.asset"
+           [169]
+            1 string data = "Master/DmodeStrengthParam.asset"
+           [170]
+            1 string data = "Master/GimmickBlastFloor.asset"
+           [171]
+            1 string data = "Master/LoginLottery.asset"
+           [172]
+            1 string data = "Master/DungeonAreaPlannerData.asset"
+           [173]
+            1 string data = "Master/GimmickSeaAnemone.asset"
+           [174]
+            1 string data = "Master/AbilityCrest.asset"
+           [175]
+            1 string data = "Master/AlbumStoryGroup.asset"
+           [176]
+            1 string data = "Master/EventTopData.asset"
+           [177]
+            1 string data = "Master/ManaPieceMaterial.asset"
+           [178]
+            1 string data = "Master/QuestEvent.asset"
+           [179]
+            1 string data = "Master/WeaponCraftGroupSeries.asset"
+           [180]
+            1 string data = "Master/MyPageCenterBanner.asset"
+           [181]
+            1 string data = "Master/AuraData.asset"
+           [182]
+            1 string data = "Master/EnemyLevelHit.asset"
+           [183]
+            1 string data = "Master/QuestScheduleDetail.asset"
+           [184]
+            1 string data = "Master/QuestWall.asset"
+           [185]
+            1 string data = "Master/QuestMultipleSkip.asset"
+           [186]
+            1 string data = "Master/MissionMemoryEventData.asset"
+           [187]
+            1 string data = "Master/MissionDrillData.asset"
+           [188]
+            1 string data = "Master/WeaponCraftData.asset"
+           [189]
+            1 string data = "Master/PriceChangeData.asset"
+           [190]
+            1 string data = "Master/DmodeQuestFloor.asset"
+           [191]
+            1 string data = "Master/GimmickDurablePillar.asset"
+           [192]
+            1 string data = "Master/BoxSummonData.asset"
+           [193]
+            1 string data = "Master/AmuletLimitBreak.asset"
+           [194]
+            1 string data = "Master/CharaModeData.asset"
+           [195]
+            1 string data = "Master/ExchangeTicket.asset"
+           [196]
+            1 string data = "Master/EnemyActionHitAttribute.asset"
+           [197]
+            1 string data = "Master/MyPageLimitedArea.asset"
+           [198]
+            1 string data = "Master/DragonDecoration.asset"
+           [199]
+            1 string data = "Master/FortEnums.asset"
+           [200]
+            1 string data = "Master/AlbumQuestPlayRecord.asset"
+           [201]
+            1 string data = "Master/EventTextData.asset"
+           [202]
+            1 string data = "Master/SystemMessage.asset"
+           [203]
+            1 string data = "Master/FortPayList.asset"
+           [204]
+            1 string data = "Master/UnitStory.asset"
+           [205]
+            1 string data = "Master/CastleStoryGroup.asset"
+           [206]
+            1 string data = "Master/BattleRoyalCharaSkinPickup.asset"
+           [207]
+            1 string data = "Master/CharaFaceEyeMotion.asset"
+           [208]
+            1 string data = "Master/QuestCarryTarget.asset"
+           [209]
+            1 string data = "Master/SummonData.asset"
+           [210]
+            1 string data = "Master/EnemyAbility.asset"
+           [211]
+            1 string data = "Master/PresentMessage.asset"
+           [212]
+            1 string data = "Master/RaidEventTalk.asset"
+           [213]
+            1 string data = "Master/CharaRarity.asset"
+           [214]
+            1 string data = "Master/CombatEventLocationReward.asset"
+           [215]
+            1 string data = "Master/WeaponLimitBreak.asset"
+           [216]
+            1 string data = "Master/CommonReportCategory.asset"
+           [217]
+            1 string data = "Master/QuestWallDetail.asset"
+           [218]
+            1 string data = "Master/QuestCarryData.asset"
+           [219]
+            1 string data = "Master/CuttCharaEye.asset"
+           [220]
+            1 string data = "Master/LoginBonusReward.asset"
+           [221]
+            1 string data = "Master/EventDamageReward.asset"
+           [222]
+            1 string data = "Master/ActionCondition.asset"
+           [223]
+            1 string data = "Master/AchievementGameCenter.asset"
+           [224]
+            1 string data = "Master/DmodeCharaLevel.asset"
+           [225]
+            1 string data = "Master/BattleRoyalEventItem.asset"
+           [226]
+            1 string data = "Master/DmodePoint.asset"
+           [227]
+            1 string data = "Master/DmodeEnemyParam.asset"
+           [228]
+            1 string data = "Master/FortAreaMap.asset"
+           [229]
+            1 string data = "Master/EnemyAction.asset"
+           [230]
+            1 string data = "Master/MyPageLimitedAreaGroup.asset"
+           [231]
+            1 string data = "Master/AlbumStory.asset"
+           [232]
+            1 string data = "Master/GimmickDown.asset"
+           [233]
+            1 string data = "Master/AchievementGooglePlay.asset"
+           [234]
+            1 string data = "Master/BuffExplosionData.asset"
+           [235]
+            1 string data = "Master/MaterialShopWeekly.asset"
+           [236]
+            1 string data = "Master/TextLabel.asset"
+           [237]
+            1 string data = "Master/ActionTarget.asset"
+           [238]
+            1 string data = "Master/DmodeServitorDungeonLevel.asset"
+           [239]
+            1 string data = "Master/CombatEventTalk.asset"
+           [240]
+            1 string data = "Master/CombatEventItem.asset"
+           [241]
+            1 string data = "Master/CommonActionHitAttribute.asset"
+           [242]
+            1 string data = "Master/MissionBeginnerData.asset"
+           [243]
+            1 string data = "Master/ShopHeaderBanner.asset"
+           [244]
+            1 string data = "Master/MyPageBGM.asset"
+           [245]
+            1 string data = "Master/SpecialShopGroup.asset"
+           [246]
+            1 string data = "Master/SummonMaterialData.asset"
+           [247]
+            1 string data = "Master/DungeonCharacterShaderData.asset"
+           [248]
+            1 string data = "Master/SummonPointData.asset"
+           [249]
+            1 string data = "Master/UnionAbility.asset"
+           [250]
+            1 string data = "Master/QuestEventGroup.asset"
+           [251]
+            1 string data = "Master/DmodeExpeditionFloor.asset"
+           [252]
+            1 string data = "Master/BattleRoyalDungeonItem.asset"
+           [253]
+            1 string data = "Master/MaterialShopDaily.asset"
+           [254]
+            1 string data = "Master/AuraEffect.asset"
+           [255]
+            1 string data = "Master/FieldTalk.asset"
+           [256]
+            1 string data = "Master/RankingTierReward.asset"
+           [257]
+            1 string data = "Master/ManaMaterial.asset"
+           [258]
+            1 string data = "Master/ExAbilityData.asset"
+           [259]
+            1 string data = "Master/StampData.asset"
+           [260]
+            1 string data = "Master/Clb01EventTop.asset"
+           [261]
+            1 string data = "Master/CollectEventGroup.asset"
+           [262]
+            1 string data = "Master/BuffIconData.asset"
+           [263]
+            1 string data = "Master/EnemyTalkData.asset"
+           [264]
+            1 string data = "Master/CharaUniqueCombo.asset"
+           [265]
+            1 string data = "Master/TutorialUnitSelectList.asset"
+           [266]
+            1 string data = "Master/GimmickBombObj.asset"
+           [267]
+            1 string data = "Master/CharaAIParam.asset"
+           [268]
+            1 string data = "Master/SkillChainData.asset"
+           [269]
+            1 string data = "Master/NormalShop.asset"
+           [270]
+            1 string data = "Master/QuestOrderParty.asset"
+           [271]
+            1 string data = "Master/OutDungeonAreaDesignerData.asset"
+           [272]
+            1 string data = "Master/DungeonItemData.asset"
+           [273]
+            1 string data = "Master/TreasureTradeGroup.asset"
+           [274]
+            1 string data = "Master/DragonTalk.asset"
+           [275]
+            1 string data = "Master/CharaFaceMouth.asset"
+           [276]
+            1 string data = "Master/DmodeEnemyTheme.asset"
+           [277]
+            1 string data = "Master/QuestSkillHolyLight.asset"
+           [278]
+            1 string data = "Master/GimmickCursebox.asset"
+           [279]
+            1 string data = "Master/DmodeAreaGimmickData.asset"
+           [280]
+            1 string data = "Master/GatherItem.asset"
+           [281]
+            1 string data = "Master/SpecialShop.asset"
+           [282]
+            1 string data = "Master/ActionGrant.asset"
+           [283]
+            1 string data = "Master/DmodeServitorPassiveLevel.asset"
+           [284]
+            1 string data = "Master/DragonReliabilityLevel.asset"
+           [285]
+            1 string data = "Master/ExHunterEventTalk.asset"
+           [286]
+            1 string data = "Master/MissionDailyData.asset"
+           [287]
+            1 string data = "Master/EnemyParamPattern.asset"
+           [288]
+            1 string data = "Master/TreasureTrade.asset"
+           [289]
+            1 string data = "Master/WeaponSkin.asset"
+           [290]
+            1 string data = "Master/DmodeStory.asset"
+           [291]
+            1 string data = "Master/QuestClearType.asset"
+           [292]
+            1 string data = "Master/WeaponType.asset"
+           [293]
+            1 string data = "Master/TradeTypeLimit.asset"
+           [294]
+            1 string data = "Master/DefaultGraphicSetting.asset"
+           [295]
+            1 string data = "Master/QuestMainMenu.asset"
+           [296]
+            1 string data = "Master/QuestScoringEnemy.asset"
+           [297]
+            1 string data = "Master/RankingGroupData.asset"
+           [298]
+            1 string data = "Master/BattleRoyalEventTalk.asset"
+           [299]
+            1 string data = "Master/DmodeDungeonTheme.asset"
+           [300]
+            1 string data = "Master/CharaLimitBreak.asset"
+           [301]
+            1 string data = "Master/LotteryData.asset"
+           [302]
+            1 string data = "Master/MazeEventReward.asset"
+           [303]
+            1 string data = "Master/CharaData.asset"
+           [304]
+            1 string data = "Master/GuildSystemMessage.asset"
+           [305]
+            1 string data = "Master/AbilityCrestFeatureGroup.asset"
+           [306]
+            1 string data = "Master/WeaponData.asset"
+           [307]
+            1 string data = "Master/BuildEventReward.asset"
+           [308]
+            1 string data = "Master/WeaponLevel.asset"
+           [309]
+            1 string data = "Master/CommonAction.asset"
+           [310]
+            1 string data = "Master/CheatDetectionParam.asset"
+           [311]
+            1 string data = "Master/InteractiveBGM.asset"
+           [312]
+            1 string data = "Master/EventStory.asset"
+           [313]
+            1 string data = "Master/PlayerAction.asset"
+           [314]
+            1 string data = "Master/GimmickWarpObj.asset"
+           [315]
+            1 string data = "Master/DungeonAreaDesignerData.asset"
+           [316]
+            1 string data = "Master/AmuletLevel.asset"
+           [317]
+            1 string data = "Master/EmblemData.asset"
+           [318]
+            1 string data = "Master/DamageDamping.asset"
+           [319]
+            1 string data = "Master/EventData.asset"
+           [320]
+            1 string data = "Master/MissionMainStoryGroup.asset"
+           [321]
+            1 string data = "Master/CampaignTarget.asset"
+           [322]
+            1 string data = "Master/WeaponBodyRarity.asset"
+           [323]
+            1 string data = "Master/QuestSkillTalk.asset"
+           [324]
+            1 string data = "Master/AbilityLimitedGroup.asset"
+           [325]
+            1 string data = "Master/QuestOverwriteParam.asset"
+           [326]
+            1 string data = "Master/AreaQuestSkillData.asset"
+           [327]
+            1 string data = "Master/DragonLevel.asset"
+           [328]
+            1 string data = "Master/ActionCollision.asset"
+     0 Asset encryptedAssets
+      0 Array Array (0 items)
+       0 int size = 0
+   [1]
+    0 Category data
+     1 string name = "Others"
+     0 Asset assets
+      0 Array Array (30 items)
+       0 int size = 30
+       [0]
+        0 Asset data
+         1 string name = "images/icon/shoptopbanner/headerbanner/shopheaderbanner_10901"
+         1 string hash = "QDEIGDWM5G773QBNYYNV7BACPZ6NEVACQCJX2U7LPYZJNH6UMY7Q"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 170933
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_10901.png"
+           [1]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_10901_alphaA8.png"
+           [2]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_10901.mat"
+       [1]
+        0 Asset data
+         1 string name = "images/icon/shoptopbanner/headerbanner/shopheaderbanner_20901"
+         1 string hash = "6SRAJA4IOIG4AK7OUCYZQ3PTDGMBOEV45KVROZVNB56C3FBXYWPA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 168837
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_20901.png"
+           [1]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_20901.mat"
+           [2]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_20901_alphaA8.png"
+       [2]
+        0 Asset data
+         1 string name = "images/icon/shoptopbanner/headerbanner/shopheaderbanner_40901"
+         1 string hash = "T7OUGIJS7ZCH3NIXALXCFXX7VYVFINCYCFEVX6BXMCCGMEH4KQPA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 181071
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_40901.png"
+           [1]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_40901.mat"
+           [2]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_40901_alphaA8.png"
+       [3]
+        0 Asset data
+         1 string name = "images/icon/shoptopbanner/headerbanner/shopheaderbanner_40901_af"
+         1 string hash = "N4W23AXGNXZJKYMPHDIDFTKWJWWGFLZP45QEGOIMHCGAMLDTXWCQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 143793
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_40901_AF.png"
+           [1]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_40901_AF_alphaA8.png"
+           [2]
+            1 string data = "Images/Icon/ShopTopBanner/HeaderBanner/ShopHeaderBanner_40901_AF.mat"
+       [4]
+        0 Asset data
+         1 string name = "images/icon/shoptopbanner/shop_banner_pack_l_01"
+         1 string hash = "246RG6CU3R4DHAL4LRGJPA5X3JSW6TCNI62ZQISVJFDTWIXDNR2A"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 169096
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_01.mat"
+           [1]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_01_alphaA8.png"
+           [2]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_01.png"
+       [5]
+        0 Asset data
+         1 string name = "images/icon/shoptopbanner/shop_banner_pack_l_02"
+         1 string hash = "LX7HCS5AH2WTOUWBMPMVMUCOVLAVA55X6UPAKIH3B3OCAVIVBQQA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 170798
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_02.mat"
+           [1]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_02_alphaA8.png"
+           [2]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_02.png"
+       [6]
+        0 Asset data
+         1 string name = "images/icon/shoptopbanner/shop_banner_pack_l_03"
+         1 string hash = "ROYOOX2UO2KCFRYVGWYJRHHAVX6G7S5EBV535NYWEIV7WCAEXVNQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 167575
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_03_alphaA8.png"
+           [1]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_03.mat"
+           [2]
+            1 string data = "Images/Icon/ShopTopBanner/Shop_Banner_Pack_L_03.png"
+       [7]
+        0 Asset data
+         1 string name = "images/icon/shoptopbanner/subcenterbanner/shopsubcenterbanner_01"
+         1 string hash = "7A5K6WOXIA2G6Z7CMA2Y5PWL355YFCEXTRALXUAB6C6THVUPUTXQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 76134
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/Icon/ShopTopBanner/SubCenterBanner/ShopSubCenterBanner_01.mat"
+           [1]
+            1 string data = "Images/Icon/ShopTopBanner/SubCenterBanner/ShopSubCenterBanner_01.png"
+           [2]
+            1 string data = "Images/Icon/ShopTopBanner/SubCenterBanner/ShopSubCenterBanner_01_alphaA8.png"
+       [8]
+        0 Asset data
+         1 string name = "images/ingame/ui"
+         1 string hash = "FDZUONNAP6TR6XUL3TO5SYCHRPJB2NJMLIAPT52LK232WAD3C33A"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 1138110
+         0 int group = 1
+         0 vector assets
+          1 Array Array (10 items)
+           0 int size = 10
+           [0]
+            1 string data = "Images/InGame/UI/Atlas/UI_MinimapIcon.mat"
+           [1]
+            1 string data = "Images/InGame/UI/Atlas/UI.asset"
+           [2]
+            1 string data = "Images/InGame/UI/Atlas/UI_ComboUI.mat"
+           [3]
+            1 string data = "Images/InGame/UI/Atlas/UI_CircleGauge.mat"
+           [4]
+            1 string data = "Images/InGame/UI/Atlas/UI.png"
+           [5]
+            1 string data = "Images/InGame/UI/Atlas/UI_SpriteForDOTween.mat"
+           [6]
+            1 string data = "Images/InGame/UI/Atlas/UI_A.png"
+           [7]
+            1 string data = "Images/InGame/UI/Atlas/UI_Add.mat"
+           [8]
+            1 string data = "Images/InGame/UI/Atlas/UI.mat"
+           [9]
+            1 string data = "Images/InGame/UI/Atlas/UI_Sprite.mat"
+       [9]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20440/event_summon_pickup_02"
+         1 string hash = "JDF3YMBRARAES5BMQWMA273NZKS6IAGTI75CKGRJGREUUCEC5VPQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44949
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20440/Event_Summon_Pickup_02.mat"
+       [10]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20447/event_summon_pickup_02"
+         1 string hash = "5JQNWU2XTJWA7ACK6HL62BHP5JDJQVQ77QDZZBTQRGJXGVXHTOZA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44352
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20447/Event_Summon_Pickup_02.mat"
+       [11]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20448/event_summon_pickup_02"
+         1 string hash = "ZGIIBD5UMEZCIZMW2UABSLWRLMEADCSTFVQVKD76XW5OGQYAFPSA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44925
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20448/Event_Summon_Pickup_02.mat"
+       [12]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20449/event_summon_pickup_02"
+         1 string hash = "7CNN2O5KY64TAFE6XD4E5VNZFECLV5HBBGIY7YJ5VTU6DONBHGXQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44357
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20449/Event_Summon_Pickup_02.mat"
+       [13]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20450/event_summon_pickup_02"
+         1 string hash = "COYUWMEEF5Q4AJHYFN2KUX7QNTJN2AKVCYQKRFFFENTL7AE3HFOA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44939
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20450/Event_Summon_Pickup_02.mat"
+       [14]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20451/event_summon_pickup_02"
+         1 string hash = "7CC3VBG4FLKOGEJZMCTDIZUSQJZYF27TKHLUL7OWYPF2H7AX2K6Q"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44929
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20451/Event_Summon_Pickup_02.mat"
+       [15]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20452/event_summon_pickup_02"
+         1 string hash = "MVB5XUUUFLG7MMEVHXR2YEXJYIH6VYCJ4UEIPHJBXSBG47A6GYYA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44938
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20452/Event_Summon_Pickup_02.mat"
+       [16]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20453/event_summon_pickup_02"
+         1 string hash = "WXWIZ2UG5M4M5MSZMMW3YU7RMDRQTX2ZFSTU7INOVOSXOLKDN67Q"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44941
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20453/Event_Summon_Pickup_02.mat"
+       [17]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20454/event_summon_pickup_02"
+         1 string hash = "U7E3ITXI7O5TSDAGQETJ6C4BXSKNXKWVX5U3GEXPILP4D4WXOBSQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44937
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20454/Event_Summon_Pickup_02.mat"
+       [18]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20455/event_summon_pickup_02"
+         1 string hash = "5XFKY663JYQP5RNTWON3SCHU2FZQ2VAY3NMG4WKIWF5SLGMZWEGQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44948
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20455/Event_Summon_Pickup_02.mat"
+       [19]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20456/event_summon_pickup_02"
+         1 string hash = "7EZQDO5GP3XJYKXFAAYATKHNY2XEU6TZTHWI2LN7JV2TXOBJJXEA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44349
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20456/Event_Summon_Pickup_02.mat"
+       [20]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20457/event_summon_pickup_02"
+         1 string hash = "A6ZD2RMB2ENSTZ2GNO4BBZMCYKLTKAJ65UM4F646JPMKJQCMQHSQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44356
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20457/Event_Summon_Pickup_02.mat"
+       [21]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20458/event_summon_pickup_02"
+         1 string hash = "G5QIV2IUCOXKRYY3TZ4JHMDQZMTYJYQTDOQ2ACWTXG33D4YX3D5Q"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44347
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20458/Event_Summon_Pickup_02.mat"
+       [22]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20459/event_summon_pickup_02"
+         1 string hash = "VSY42RWC56P6YKH3U7TJNBKTP2BXSNNG2CCZYH4QS3L33G4XZRWQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44948
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20459/Event_Summon_Pickup_02.mat"
+       [23]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20460/event_summon_pickup_02"
+         1 string hash = "62XUAUZ4TO5EJEDTRZ3WH537SJTO3PM4RM7RYDO743E6D5TBLGPQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44342
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20460/Event_Summon_Pickup_02.mat"
+       [24]
+        0 Asset data
+         1 string name = "images/outgame/eventlocalized/20461/event_summon_pickup_02"
+         1 string hash = "XKVM6SYE4LZC5ANIFEUZ5QMIZPO5GNJBZ67FAPQKEWWT6A56BV4Q"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 44949
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/OutGame/EventLocalized/20461/Event_Summon_Pickup_02.mat"
+       [25]
+        0 Asset data
+         1 string name = "images/story/tutorial/tutorial_amulet_03"
+         1 string hash = "TYQBJS6JI7FGTQTLWZO27T5H756YP4T6FEC4NESBDF4N7NDTS2RQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 308698
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/Story/Tutorial/Tutorial_Amulet_03.mat"
+       [26]
+        0 Asset data
+         1 string name = "images/story/tutorial/tutorial_shop_01"
+         1 string hash = "5H3QAD73V3JUXMLJKTPNY7VCSM52TZPQTWF4FQEME3IYYL7F5ZLA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 327143
+         0 int group = 4
+         0 vector assets
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "Images/Story/Tutorial/Tutorial_Shop_01.mat"
+       [27]
+        0 Asset data
+         1 string name = "images/uilocalized1/atlascompress/uilocalized1"
+         1 string hash = "EJEBCHOVR42HKZRHOYQ6QDTQK7HZOG2FOEEDRRRTJKWQNZFGTGWA"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 1476972
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/UILocalized1/AtlasCompress/UILocalized1_A.png"
+           [1]
+            1 string data = "Images/UILocalized1/AtlasCompress/UILocalized1.png"
+           [2]
+            1 string data = "Images/UILocalized1/AtlasCompress/UILocalized1.mat"
+       [28]
+        0 Asset data
+         1 string name = "images/uilocalized2/atlascompress/uilocalized2"
+         1 string hash = "H5K3Z7BIMJ6DEGM47JWW3ZXUG65ZDZ2YBKTJKKP6HUBL6PJO4DVQ"
+         0 vector dependencies
+          1 Array Array (1 items)
+           0 int size = 1
+           [0]
+            1 string data = "shader"
+         0 int size = 1190999
+         0 int group = 2
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Images/UILocalized2/AtlasCompress/UILocalized2.png"
+           [1]
+            1 string data = "Images/UILocalized2/AtlasCompress/UILocalized2.mat"
+           [2]
+            1 string data = "Images/UILocalized2/AtlasCompress/UILocalized2_A.png"
+       [29]
+        0 Asset data
+         1 string name = "shader"
+         1 string hash = "DJ3ZY6LRCU7PT5KULRHCTYLO2OJ2HIPLKRLNKKD7MPV5NC7TP4KA"
+         0 vector dependencies
+          1 Array Array (0 items)
+           0 int size = 0
+         0 int size = 2608413
+         0 int group = 1
+         0 vector assets
+          1 Array Array (3 items)
+           0 int size = 3
+           [0]
+            1 string data = "Shader/Collection.shadervariants"
+           [1]
+            1 string data = "Shader/DoNotDelete.shader"
+           [2]
+            1 string data = "DummyMaterials/Custom/ma_101401_IMG_01_effect_01.mat"
+     0 Asset encryptedAssets
+      0 Array Array (0 items)
+       0 int size = 0
+ 0 RawAsset rawAssets
+  0 Array Array (0 items)
+   0 int size = 0
