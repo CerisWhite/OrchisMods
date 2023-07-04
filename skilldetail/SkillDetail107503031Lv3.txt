@@ -1,3 +1,0 @@
-﻿0 TextAsset Base
- 1 string m_Name = "SkillDetail107503031Lv3"
- 1 string m_Script = "<size=0>[107503031]Adoring Blow</size>\n<size=0>[107503031][Lv.3]スキル1(S1)</size>\nSkill Energy Required: 3,500\nAmps:\n・Strength Amp (Team Amp MAX Lv. = 3)\n"
