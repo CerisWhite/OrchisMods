@@ -1,0 +1,46 @@
+{
+  "m_Component": {
+    "Array": [
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 5976893237759869360
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": -711002154185047547
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 6494688774412127578
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": -5621578980741644081
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": -7386954292666681334
+        }
+      },
+	  {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 5484398790873626994
+        }
+      }
+    ]
+  },
+  "m_Layer": 0,
+  "m_Name": "PlayerAction_00791290",
+  "m_Tag": 0,
+  "m_IsActive": true
+}
