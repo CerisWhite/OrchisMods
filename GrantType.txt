@@ -1,0 +1,9 @@
+ActionGrant
+1 = Standard Attack Freeze (10%)
+7 = Dispel (Force Strike)
+8 = Dispel (Shapeshift Standard Attack)
+16 = Standard Attack Freeze (25%)
+17 = Alberius/BEuden Skill Shapeshift dispel
+18 = Alberius/BEuden Skill Shapeshift dispel
+19 = Alberius/BEuden Skill Shapeshift dispel / Super Armor?
+20 = Vulnerability
