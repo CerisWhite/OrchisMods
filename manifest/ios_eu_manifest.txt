@@ -19,7 +19,7 @@
        [0]
         0 Asset data
          1 string name = "master"
-         1 string hash = "U5K2TYEFZ2IZO6M4FWWY6D2XXBH6Z5PHE3ISUATV3LJMTFBRS4TQ"
+         1 string hash = "7GK2J6BB3IKSLWQ2T5FTSOIOPYUYBQBMIMCDURQROYGELBWKJHBA"
          0 vector dependencies
           1 Array Array (0 items)
            0 int size = 0
