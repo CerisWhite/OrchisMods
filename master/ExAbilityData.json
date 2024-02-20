@@ -4132,5 +4132,31 @@
     "_VariousId3": 0,
     "_TargetAction3": 0,
     "_AbilityType3UpValue0": 0
+  },
+  "991000001": {
+    "_Id": 991000001,
+    "_Name": "EX_ABILITY_NAME_991000001",
+    "_Details": "EX_ABILITY_DETAIL_991000001",
+    "_Category": 25,
+    "_AbilityIconName": "Icon_Ability_1020014",
+    "_PartyPowerWeight": 320,
+    "_UnitType": 0,
+    "_ElementalType": 0,
+    "_WeaponType": 0,
+    "_ConditionType": 0,
+    "_ConditionValue": 0,
+    "_Probability": 0,
+    "_AbilityType1": 1,
+    "_VariousId1": 10,
+    "_TargetAction1": 0,
+    "_AbilityType1UpValue0": 10,
+    "_AbilityType2": 0,
+    "_VariousId2": 0,
+    "_TargetAction2": 0,
+    "_AbilityType2UpValue0": 0,
+    "_AbilityType3": 0,
+    "_VariousId3": 0,
+    "_TargetAction3": 0,
+    "_AbilityType3UpValue0": 0
   }
 }
