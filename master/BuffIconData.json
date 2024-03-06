@@ -1630,5 +1630,17 @@
     "_IconName": "Icon_Buff_1080005",
     "_ValueDisplayType": 1,
     "_GaugeDisplayType": 2
+  },
+  "9003": {
+    "_Id": 9003,
+    "_IconName": "Icon_Buff_2050001",
+    "_ValueDisplayType": 2,
+    "_GaugeDisplayType": 0
+  },
+  "9004": {
+    "_Id": 9004,
+    "_IconName": "Icon_Buff_2050039",
+    "_ValueDisplayType": 0,
+    "_GaugeDisplayType": 2
   }
 }

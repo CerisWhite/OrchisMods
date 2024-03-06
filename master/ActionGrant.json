@@ -922,5 +922,12 @@
     "_TargetAction": 2,
     "_GrantCondition": 5007,
     "_Attribute": 0
+  },
+  "99900002": {
+    "_Id": 99900002,
+    "_DurationSec": 0,
+    "_TargetAction": 2,
+    "_GrantCondition": 5010,
+    "_Attribute": 0
   }
 }
